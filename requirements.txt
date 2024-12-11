@@ -1,0 +1,8 @@
+fastapi[standard]~=0.115.6
+sqlalchemy~=2.0.36
+
+pymysql
+pydantic~=2.10.3
+bcrypt~=4.2.1
+PyJWT~=2.10.1
+passlib~=1.7.4
